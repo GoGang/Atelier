@@ -18,7 +18,7 @@ Plan
 Mini Projet
 ===========
 
-4 fiches d'un 1/4h, points de RdV.
+4 fiches d'un 1/4h, points de RdV. Fournir un test de validation de la fiche en cours.
 
 Idées de projets :
 
