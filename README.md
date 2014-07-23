@@ -1,10 +1,7 @@
-Atelier
-=======
+Plan
+====
 
 Atelier Golang
-
-Plan
-----
 
 - Présentation générale (4 min).
 - Motivation migration (2 min).
