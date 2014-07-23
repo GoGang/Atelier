@@ -31,8 +31,8 @@ APIs à utiliser
 
 Projet piloté par les APIs à utiliser ?
 
-- API webapp.
-- XML.
+- serveur HTTP.
+- XML ou Json.
 - httptest.
 - os/exec.
 - channels & goroutines.
