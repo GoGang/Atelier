@@ -27,6 +27,11 @@ Idées de projets :
 - Moteur de recherche.
 - URL shrinker (pastebin).
 
+----
+
+APIs à utiliser
+===============
+
 Projet piloté par les APIs à utiliser ?
 
 - API webapp.
