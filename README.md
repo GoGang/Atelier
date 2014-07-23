@@ -33,3 +33,4 @@ Projet piloté par les APIs à utiliser ?
 - XML.
 - httptest.
 - os/exec.
+- channels.
