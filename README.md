@@ -34,3 +34,4 @@ Projet piloté par les APIs à utiliser ?
 - httptest.
 - os/exec.
 - channels & goroutines.
+- race conditions detection.
