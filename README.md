@@ -11,6 +11,7 @@ Plan
 - Environnement de dev : outils, build... (4 min).
 - Recap langage (20 min).
 - Mini projet (1 h).
+- Les limites de l'écosystème, sujets à controverse (encoding...).
 
 ----
 
