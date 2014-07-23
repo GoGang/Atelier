@@ -27,3 +27,7 @@ Idées de projets :
 - URL shrinker (pastebin).
 
 Projet piloté par les APIs à utiliser ?
+
+- API webapp.
+- XML.
+- 
