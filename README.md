@@ -12,3 +12,8 @@ Plan
 - Recap langage (20 min).
 - Mini projet (1 h).
 
+----
+
+Mini Projet
+===========
+
