@@ -37,3 +37,32 @@ Projet piloté par les APIs à utiliser ?
 - os/exec.
 - channels & goroutines.
 - race conditions detection.
+
+----
+
+Soumission à Bdx.io
+===================
+
+Présentation de type *Hands on Lab* d'une durée de 1h50 dans le thème *Langages / Frameworks / Tooling*.
+
+Titre
+-----
+
+Le langage de Programmation Go
+
+Résumé
+------
+
+Cet atelier est une initiation au langage de programmation Go :
+
+- Présentation du langage.
+- Spécificités du langage.
+- Présentation des outils et de l'environnement.
+- Mise en oeuvre d'un mini projet.
+
+Les participants devront avoir installé le compilateur Go en version 1.3.
+
+Message au comité
+-----------------
+
+Cet atelier fait écho à la conférence sur le retour d'expérience chez Orange.
